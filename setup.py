@@ -10,6 +10,7 @@ setup(name='bottlerocket',
       author='Rob Tandy',
       author_email='rob.tandy@gmail.com',
       url='https://github.com/robtandy/bottlerocket',
+      description="Instruments any code using the excellent bottle web framework",
       long_description="""
       Bottlerocket instruments any code using the excellent bottle web 
       framework (http://www.bottlepy.org) to send timing information 
